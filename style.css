@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(174, 24, 7);
+}
+h1{
+    text-align: center;
+    margin: 40px 0 30px 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5rem;
+    letter-spacing: 0.4rem;
+    padding-bottom: 2rem;
+   
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    /* border: 2px solid red; */
+    
+
+}
+textarea{
+    height: 200px;
+    width: 600px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(240, 183, 143);
+}
+button{
+    border: none;
+    background-color: rgb(90, 3, 3);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+footer a{
+    text-decoration: none;
+    padding: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+#translateButton{
+    color: white;
+
+}
