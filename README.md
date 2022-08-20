@@ -9,4 +9,4 @@ In this app we can translate the English Language to Minion Speak.
 
 3.Output will shown Below
 
-Here we have used the minion speak API from ### funtranslations.com
+Here we have used the minion speak API from funtranslations.com
